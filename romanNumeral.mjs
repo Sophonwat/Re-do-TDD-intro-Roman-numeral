@@ -71,7 +71,3 @@ function romanNumeralConverter(nInt) {
 }
 
 export default romanNumeralConverter; //export the function to be used in other files.
-
-console.log(romanNumeralConverter(1));
-console.log(romanNumeralConverter(1000));
-//(1) = nInt parameter, (1000) = nInt parameter
